@@ -1,7 +1,9 @@
-Project Overview: 
+## EcoBuild Marketing Performance Dashboard
+
+## 📊 Project Overview:
 This project presents an interactive Excel dashboard created to analyze the digital marketing performance of EcoBuild, a startup promoting sustainable construction training.The dashboard visualizes channel performance and conversion funnel to support better marketing decision making.
 
-Tools & Features Used:
+##Tools & Features Used:
 - Microsoft Excel
 - Funnel Visualization
 - Donut Chart (Channel Contribution)
