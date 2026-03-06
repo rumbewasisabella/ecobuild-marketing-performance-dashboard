@@ -13,4 +13,5 @@ This project presents an interactive Excel dashboard created to analyze the digi
 - Insight Textbox for analysis
 
 Dashboard Preview:
+
 ![Dashboard Preview](dashboard-preview-ecobuild.jpg)
